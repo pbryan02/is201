@@ -1,0 +1,62 @@
+body{
+    background-color:rgb(65, 64, 64);
+    color:rgb(252, 255, 48); /*text color*/
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    }
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    }
+
+a{
+    color:aquamarine;
+    }
+
+h5{
+    text-align: center;
+    font-family: italic; 
+    /* background-color */
+    /* opacity */
+    /* font-weight = bold */
+    /* dispay: inline "to only have a background behind the text */
+    }
+
+a:visited{
+    color:deeppink;
+    }
+
+.img{
+    border: 2px solid red;
+    padding: 3px;
+    margin: 55px;
+    /* center stuff */
+    /* display:block;
+    margin: auto; */
+    }
+
+.imgcenter{
+    display:block;
+    margin: auto;
+    border: 2px solid red;
+    padding: 3px;
+    margin: 55px;
+    }
+
+.rizz{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color:hotpink;
+    background-color:royalblue;
+    font-style: italic;
+    border: 5px dashed yellow;
+    display:block;
+    margin: auto;
+    }
+
+.rizz:hover{
+    font-family:Arial, Helvetica, sans-serifl;
+    color: blue;
+    background-color: green;
+    }
+    
